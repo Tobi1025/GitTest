@@ -2,4 +2,4 @@ aaa
 Create a dev branch
 Stash 1
 Push dev
-同事修改了dev分支内容
+同事2修改了dev分支bug
