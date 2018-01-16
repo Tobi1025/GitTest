@@ -3,3 +3,4 @@ Create a dev branch
 Stash 1
 Push dev
 同事2修改了dev分支bug
+测试sourceTree
